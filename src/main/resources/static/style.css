@@ -1,0 +1,74 @@
+h1 {
+    margin: 0;
+}
+
+h2 {
+    margin-top: 25px;
+    margin-left: 15px;
+}
+
+hr {
+    color: black;
+    background-color: black;
+    margin-top: 0;
+}
+
+body {
+    background-image: linear-gradient(to bottom, #d4cab0, #b5ab93);
+}
+
+main {
+    font-family: Tahoma, serif;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+header a {
+    color: black;
+}
+
+header {
+    padding-top: 20px;
+    font-family: Tahoma, serif;
+}
+
+footer {
+    font-family: Tahoma, serif;
+}
+
+h3 {
+    padding-bottom: 5px;
+}
+
+.card {
+    margin: 10px;
+}
+
+.space {
+    height: 187px;
+}
+
+.credits-space {
+    height: 490px;
+}
+
+.step-1-space {
+    height: 50px;
+}
+
+.step-2-space {
+    height: 115px;
+}
+
+.step-3-space {
+    height: 28px;
+}
+
+nav {
+    margin-right: 15px;
+}
+
+.pbspread {
+    width: 45%;
+    height: 45%;
+}
